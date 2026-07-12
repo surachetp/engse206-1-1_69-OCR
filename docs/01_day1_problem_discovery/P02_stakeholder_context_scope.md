@@ -27,9 +27,9 @@ flowchart LR
     CLOUD -->|ดึงข้อมูลย้อนหลังและประมวลผล| WEB
     BO -->|3. ตรวจสอบข้อมูลและอนุมัติออกบิล| WEB
     OWN -->|4. ดูรายงานสรุปการใช้ไฟและรายได้| WEB
+```
 
-
-Scope
+## Scope
 In scope
 Mobile Camera UI พร้อม Bounding Box และ Anti-Reflection Guide
 Image Pre-processing Engine เช่น Perspective Transform และ Image Enhancement
